@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" alt="Coding GIF"/>
+  <img src="https://share.google/UPzIleUdX0XlfZHIW" width="600" alt="Coding GIF"/>
 </p>
 
 
@@ -107,8 +107,8 @@
 # 💻 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dokhepatil&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dokhepatil&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mayurchinchole&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mayurchinchole&layout=compact&theme=tokyonight" />
 </p>
 
 
@@ -269,7 +269,7 @@ Connect WakaTime to auto-generate your weekly coding breakdown here 📊
 
 <p align="center">
 
-Made with ❤️ by Mayur Chinchole 
+Made by Mayur Chinchole 
 
 </p>
 
