@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://share.google/UPzIleUdX0XlfZHIW" width="600" alt="Coding GIF"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM295bXB2aThjN3ByaWU4ZDJwOWFjbWE3d3NveTN6b2E0aHZwMmN1bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aCTfyhYawdOXcFW/giphy.gif" width="600" alt="Coding GIF"/>
 </p>
 
 
