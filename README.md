@@ -1,7 +1,7 @@
-                                                        # Hi there! 👋 I'm Mayur Chinchole ! 
+# Hi there! 👋 I'm Mayur Chinchole ! 
 
-<div align="center">
-
+<div align="centre">
+68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f26666f6e743d49424d2b506c65782b53616e7326636f6c6f723d6530356434342673697a653d3230266c696e65733d48692b7468657265212b4974732b4d6f6869742b68657265213b49276d2b612b446174612b456e67696e65722b492b737065616b2b507974686f6e2b53514c2b5079537061726b3b616e642b49276d2b64616e6765726f75736c792b676f6f642b61742b616c6c2b7468726565
 ### Azure Data Engineer | Microsoft Fabric | PySpark | SQL
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile!;Building+Data+Engineering+Solutions;Exploring+Microsoft+Fabric+%26+Azure;Transforming+Raw+Data+into+Insights;Learning%2C+Building+%26+Growing+Every+Day!" alt="Animated introduction" />
