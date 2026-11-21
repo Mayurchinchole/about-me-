@@ -156,7 +156,7 @@ Connect WakaTime to auto-generate your weekly coding breakdown here 📊
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dokhepatil/mayurchinchole/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/mayurchinchole/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
 ---
 
