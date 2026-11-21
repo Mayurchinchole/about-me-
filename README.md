@@ -134,7 +134,7 @@ Connect WakaTime to auto-generate your weekly coding breakdown here 📊
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dokhepatil&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mayurchinchole&theme=tokyo-night"/>
 
 </p>
 
@@ -145,7 +145,7 @@ Connect WakaTime to auto-generate your weekly coding breakdown here 📊
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=dokhepatil&theme=algolia&no-frame=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mayurchinchole&theme=algolia&no-frame=true&margin-w=10"/>
 
 </p>
 
@@ -156,7 +156,7 @@ Connect WakaTime to auto-generate your weekly coding breakdown here 📊
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dokhepatil/dokhepatil/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/dokhepatil/mayurchinchole/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
 ---
 
