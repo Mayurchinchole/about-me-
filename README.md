@@ -1,268 +1,125 @@
+# 👋 Hey, I'm Mayur Chinchole!
+
+<h3 align="center">🚀 Azure Data Engineering | Microsoft Fabric | PySpark | SQL</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM295bXB2aThjN3ByaWU4ZDJwOWFjbWE3d3NveTN6b2E0aHZwMmN1bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aCTfyhYawdOXcFW/giphy.gif" width="150" alt="Coding GIF"/>
-</p>
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=#E6E6FA,100:1E90FF&height=220&section=header&text=Bhushan%20Dokhe&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%7C%20Azure%20%7C%20Snowflake%20%7C%20PySpark&descAlignY=55&descSize=20"/>
-</p>
-
-<h1 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Mayur Chinchole 
-</h1>
-
-<h3 align="center">
-🚀 Data Engineer | Azure | Snowflake | PySpark | SQL | Python | Databricks | Kafka
-</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Data+Engineer;Azure+Data+Engineer;PySpark+Developer;SQL+Expert;Snowflake+Learner;Always+Learning+New+Things..." />
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=dokhepatil&label=Profile%20Views&color=0e75b6&style=flat"/>
-<img src="https://img.shields.io/github/followers/dokhepatil?label=Followers&style=social"/>
-<img src="https://img.shields.io/github/stars/dokhepatil?affiliations=OWNER&style=social"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Data+Engineering+Enthusiast;Building+Scalable+Data+Pipelines;Azure+%7C+Microsoft+Fabric+%7C+PySpark;Turning+Raw+Data+Into+Insights" alt="Typing SVG" />
 </p>
 
 ---
 
-# 🌐 About Me
+## 🌐 About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+- 👨‍💻 Passionate about **Data Engineering and Cloud Technologies**.
+- ☁️ Working with Microsoft Azure and Microsoft Fabric concepts.
+- 🔥 Exploring PySpark, Databricks, Delta Lake and Lakehouse Architecture.
+- 📊 Interested in building scalable ETL/ELT pipelines and data solutions.
+- 🛠️ Practicing real-world projects involving data ingestion, transformation and analytics.
+- 🤝 Open to collaboration on Data Engineering, Azure, PySpark and SQL projects.
 
-- ⚡ Data Engineer — I build pipelines, storages & compute solutions.
-- 🔥 Passionate about Data Engineering & Cloud.
-- ☁️ Learning Azure, Snowflake & Databricks.
-- 💻 Python | SQL | PySpark.
-- 📊 Love solving SQL challenges.
-- 🤝 Open to collaborate on Data Engineering Projects.
-- 🌱 Currently learning Apache Airflow & Kafka.
-- 🎯 Ask me about: **ETL pipelines, data modeling, cloud data platforms**
-- 📫 Reach me at: **mayurchinchole10@gmail.com**
-
-<br clear="right"/>
+**My Goal:** Build reliable, scalable and efficient data pipelines that turn raw data into meaningful insights.
 
 ---
 
-# 🌐 Connect With Me
+## 🛠️ Languages and Tools
 
-<p align="left">
-
-<a href="https://linkedin.com/in/Mayurchinchole">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/mayurchinchole10">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="mailto:mayurchinchole10@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-
-</p>
-
----
-
-# 🛠 Languages and Tools
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,java,git,github,docker,linux,vscode,mysql,postgres"/>
-
-</p>
-
-### Data Engineering
+### Programming & Query Languages
 
 <p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
-<img src="https://img.shields.io/badge/PySpark-orange?style=for-the-badge"/>
+### Microsoft Azure & Data Engineering
 
-<img src="https://img.shields.io/badge/Hadoop-yellow?style=for-the-badge"/>
+<p>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Synapse-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure_SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_Fabric-742774?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+</p>
 
-<img src="https://img.shields.io/badge/Hive-black?style=for-the-badge"/>
+### Big Data & Data Processing
 
-<img src="https://img.shields.io/badge/Kafka-black?style=for-the-badge"/>
+<p>
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Delta_Lake-003366?style=for-the-badge&logo=delta&logoColor=white"/>
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
+</p>
 
-<img src="https://img.shields.io/badge/Snowflake-blue?style=for-the-badge"/>
+### Analytics & Development Tools
 
-<img src="https://img.shields.io/badge/Databricks-red?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Azure_Data_Factory-blue?style=for-the-badge"/>
-
+<p>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
 ---
 
-# 💻 GitHub Stats
+## 🚀 Featured Projects
+
+### 🌍 Worldwide Earthquake Events – Microsoft Fabric
+
+An end-to-end data engineering project using the Medallion Architecture.
+
+- **Bronze:** Ingest raw earthquake data from the USGS API.
+- **Silver:** Clean, transform and structure earthquake events using PySpark.
+- **Gold:** Enrich and classify earthquake data for analytics.
+
+**Technologies:** Microsoft Fabric, Lakehouse, PySpark, Python, USGS API.
+
+🔗 [View Project on GitHub](https://github.com/Mayurchinchole/Worldwide-Earthquake-Events-Microsoft-Fabric)
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mayurchinchole&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mayurchinchole&layout=compact&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mayurchinchole&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayurchinchole&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
-
-
----
-
-# 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=dokhepatil&theme=tokyonight"/>
-
+  <img src="https://streak-stats.demolab.com?user=Mayurchinchole&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
 
-# ⏱️ Weekly Coding Activity (WakaTime)
-
-<!-- To enable this: connect your GitHub to wakatime.com, then add a `wakatime.yml`
-     workflow (see wakatime.com/github-readme-stats) that updates the block below. -->
-
-<!--START_SECTION:waka-->
-```text
-Connect WakaTime to auto-generate your weekly coding breakdown here 📊
-```
-<!--END_SECTION:waka-->
-
----
-
-# 📊 My Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mayurchinchole&theme=tokyo-night"/>
-
-</p>
-
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mayurchinchole&theme=algolia&no-frame=true&margin-w=10"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mayurchinchole&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
 </p>
 
 ---
 
-# 📈 Contribution to github
+## 🤝 Connect With Me
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mayurchinchole/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+<p align="left">
+  <a href="https://github.com/Mayurchinchole">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/" >
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
----
-
-# 📌 Pinned Projects
-
-<details open>
-<summary><b>Click to expand / collapse 👇</b></summary>
-<br/>
-
-<p align="center">
-
-<a href="https://github.com/dokhepatil/sql-interview-questions">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=dokhepatil&repo=sql-interview-questions&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/dokhepatil/python-projects">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=dokhepatil&repo=python-projects&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/dokhepatil/azure-data-engineering">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=dokhepatil&repo=azure-data-engineering&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/dokhepatil/snowflake-data-warehouse">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=dokhepatil&repo=snowflake-data-warehouse&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/dokhepatil/databricks-etl-pipeline">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=dokhepatil&repo=databricks-etl-pipeline&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/dokhepatil/pyspark-projects">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=dokhepatil&repo=pyspark-projects&theme=tokyonight"/>
-</a>
-
-</p>
-
-</details>
-
-> 💡 These pin cards render automatically once the repo exists on your GitHub — just make sure the repo names above match your real ones (rename or remove any that don't exist yet).
-
----
-
-# 📚 Currently Learning
-
-- Azure Data Engineering
-- Snowflake
-- Databricks
-- Apache Airflow
-- Apache Kafka
-- dbt
-- System Design
-
----
-
-# 🎯 2026 Goals
-
-- [x] Master Azure
-- [x] Master Snowflake
-- [ ] Build 20 End-to-End Projects
-- [ ] Contribute to Open Source
-- [ ] Solve 1000 SQL Problems
-
-> GitHub renders these as tickable checkboxes right on your profile — check them off as you go! ✅
-
----
-
-# 💡 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-# 😂 Random Dev Meme
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
-
----
-
-# 🌍 Visitors Map
-
-<p align="center">
-<img src="https://profile-counter.glitch.me/mayurchinchole/count.svg"/>
-</p>
-
----
-
-# ☕ Support My Journey
-
-<a href="https://buymeacoffee.com/mayurchinchole">
-<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee"/>
-</a>
-
-<a href="https://github.com/sponsors/dokhepatil">
-<img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white"/>
-</a>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFFF&height=150&section=footer"/>
+  💡 <b>Keep Learning. Keep Building. Keep Growing.</b>
 </p>
 
 <p align="center">
-
-Made by Mayur Chinchole 
-
+  ⭐ Thanks for visiting my GitHub profile!
 </p>
 
+<p align="center">
+  <i>Crafted with ❤️ by Mayur Chinchole</i>
+</p>
