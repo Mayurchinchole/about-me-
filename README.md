@@ -239,14 +239,14 @@ Connect WakaTime to auto-generate your weekly coding breakdown here 📊
 # 🌍 Visitors Map
 
 <p align="center">
-<img src="https://profile-counter.glitch.me/dokhepatil/count.svg"/>
+<img src="https://profile-counter.glitch.me/mayurchinchole/count.svg"/>
 </p>
 
 ---
 
 # ☕ Support My Journey
 
-<a href="https://buymeacoffee.com/dokhepatil">
+<a href="https://buymeacoffee.com/mayurchinchole">
 <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee"/>
 </a>
 
